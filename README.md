@@ -1,2 +1,4 @@
 # CMDWarrior
-python based cmd card game test
+Python based CMD card game test
+
+Play the card with a higher attack than your opponent to damage their life and win!
